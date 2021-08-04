@@ -1,5 +1,7 @@
 # Issue with Navigation backstack and BottomView
 
+Linked issue : https://issuetracker.google.com/issues/194301895
+
 ## App
 
 This app show a 2 destinations BottomNavigationView. It uses Navigation 2.4.0-alpha05
